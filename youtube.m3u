@@ -438,7 +438,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", ZoomOn News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742819197/ei/HfvgZ_W0FJSKkucP4JHK8Qw/ip/20.161.78.128/id/V1KS1YSXrBM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcNhfSDLKTzDsgBQjLgjUZzprh9uY0Tozt6Hmrvh1O4mQYe91xhy6mUnlcid2EWN1BNIzCKomQxM/spc/_S3wKmhdJBBSI3_49SktsN92mb4wq19_pMLKIoWD0krH1Dwuc4clD1GHoBnxwYI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435732/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQOF6beqgXZITBgY6DC6LjhLYP8KPtPP-ZFRRVXWG8pkCIQDiMY0DlbQRTTQBNcYOAZcQadnl92kV5LqxSzYE6a-LFw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Devotional" tvg-logo="" tvg-id="", Shree Siddhivinayak Temple Live
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
