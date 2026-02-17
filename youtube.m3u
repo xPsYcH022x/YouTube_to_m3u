@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://play-lh.googleusercontent.com/k0A88RrzsPqX1D75am5_bOJ3M2Y0R0fXi7gu4BfgmS2GkuUNvFnSLMmCaLBK0BhQ9Es" tvg-id="", Manorama News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1771354859/ei/i2aUaa_zGu7oybgPovTn0AQ/ip/64.236.133.130/id/tgBTspqA5nY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51691027%2C51691028/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AVNa5-xJbSkEuMcF4_81mkRGUL22XZO640KMaLYAnJr_7rDwcQynnv6y-EhnzABcMRQor6y1p_6pEL8-/spc/6dlaFMSU0YiOr1E8oD6PCWFd5OwHG5trz7uGJ44rj6eTGyGu_1Nzj-fObnok64TxCzF4ng/vprv/1/go/1/ns/XFxL_O8QOR7Q13lW2JAuFOAS/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565115%2C51565682%2C51580968%2C51772949/dover/11/n/NiWKiaTb_C6bV5End/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgWoPlGlw2AsAM6gkc6ZctavTlexZdO-0Xdc076buv73ECICC0j1H1w7Phth5IzmopLDFAdz5RjdPPzb4OpwM4Frbw/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png" tvg-id="", News 18 Kerala
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -66,13 +66,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Albania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="", Euronews Albania
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1771354874/ei/mmaUadXHNMyO2_gP-Yno2QM/ip/64.236.133.130/id/bNsofzGieXU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-ws53EAnaKxMmd6cWV9ArvIfrecBxRAPUr8_1FST-aw14prY2UUxBMBvzyg0-p2t2vuJJWxTxeU/spc/6dlaFIct5cj1J-nJEPFvEsgqaztsFodChgIXzHCatjhRvg7Ac5ldb4SI2yxYGSUJD1MotQ/vprv/1/go/1/ns/c1ng6qWfg1t50-E69ypqza8S/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565682%2C51580968%2C51772949/dover/11/n/9Pv0OFS-d1QujyZB-/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJEij0EwRgIhAMx8rp_EAi6rW3sh62m4Trlyoy4VCw9mDbq4Ybfy43G0AiEAhyiS5D0K0zIHAmrVFteWoxAJdQqcvbMsOag8hXZOAb0%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", Insomniac
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ytimg.com/vi/Bz_lsdTuNl0/hq720_2.jpg" tvg-id="", Tribunnews Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1771354876/ei/nGaUacy5CcCwlu8P1869iAg/ip/64.236.133.130/id/URWNOp2IN9E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-yVR2-V-a_6G_RpwRpilPPlm0kkJgnNz3X3SrkMi8fCZ5J2PhBBrRRE1QPB2aEcM5vr9G4ILYYU/spc/6dlaFASghuVL8Z_M7fpT6V4LWPyrrEFxJ3YNv0NUFQCai7wbmVg4ygKsR0-e5vpS0Fb1XA/vprv/1/go/1/ns/JoeQijKWnqPO0Y2uTBUXf_YS/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968%2C51772949%2C51775177/dover/11/n/N5nNBLHyhZRYAEdZt/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRQIhAMAFDOpgCyj3wf9EYBZ6IECTpYBr-6AobZiDAqzQ5JlMAiBvCGHis1m6ue98E3-jxBBCu1JqyY5HUPSw8VOARtwvxg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TV9_India.png/revision/latest?cb=20190216115316" tvg-id="", TV9 Telugu
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
