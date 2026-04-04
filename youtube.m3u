@@ -420,7 +420,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", Zee 24 Taas
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775359947/ei/a4PRadDJMdqkir4P7-H1sQM/ip/172.212.164.17/id/8XVks70Q_Ng.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGLAa1hSMfNOx529701qsow9jxAqln5VnSo31ulEIUhsn_RD8RH9riFIGW_sLH1ZZu5O7WdM1C2b/spc/jlWavWoqOryWTYvE_GTjYZtCaK-HfcPY21HGbFKcm_nPsN0HNW35qSMXpZHCTVfkCdM6Uw/vprv/1/go/1/ns/xCDrtzubjbCCbVzO8Uo51koU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/GGc4dAzbVzTPds1dR6xP/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgPND89SG7YRO6V5evtOiOOtGXwcgpCNLZmS95L3v3iqwCIQCzYpdzrDelrS46rWRL5GScAbWfyJLeoPzRCIDEghKhjQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="" tvg-id="", TV9 Marathi
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
