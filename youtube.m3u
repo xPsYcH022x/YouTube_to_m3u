@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://7starcloud.in/NB.png" tvg-id="ts58", New18 TamilNadu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775446226/ei/cdTSaa78OuG1ir4PzqHPqQ8/ip/20.236.100.4/id/M6cRBvsYTMo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51819628/txs/51819628%2C51819629%2C51819630%2C51819631%2C51819632/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGI5ymSiczv6kmQo0NQr2YZBrUvP_Gi_1OeJtaGYdkjhP2ReaY4FXmh7OKS-ZKLoPO2XxQIkU8sl/spc/jlWavdsDm7lde6oLGaK9B1ILFKX3VzxitULqPnn2_uVxXQqq8YMV5xVxmJciXiEoOO0AGw/vprv/1/go/1/ns/2FiSxHuiy_zBWMRV3e26EDQU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/2C3pqJS2Cl5-rioa-bDt/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgVGVF4YfpbndafINCDf9ktc2_DvSDL-d17GT5RrfuTrkCIQD9KLYDA4ReZ1aKLSkCpbDF7lS74Ueb13PhF3aHmSp7fQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png" tvg-id="677", Puthiya Thalaimurai
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -453,13 +453,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", CGTN News Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775446372/ei/BNXSaYPLB9m0ir4PmouB2Qo/ip/20.236.100.4/id/QnLsC16gVd0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51819631/txs/51819628%2C51819629%2C51819630%2C51819631%2C51819632/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGJGkpD9mKkVi3jrLney6pya3iul-e-SjCHcOOy7kYbuKkdK0332kTll3ikk5Oc8t-DEWqJXNDjm/spc/jlWavZnGJoOIPiQDMy7fh4KUT8v8h5s-KAlCBkjUFnKaU_ryr20pb7Tp4kstWTzeENRdtg/vprv/1/go/1/ns/qZWjttFSF5CT-pTSYN_yvRkU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/xNv9QLQkR2XKAnE1JqNc/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAPlM3u5GLEvmLca-BWpkEzyyRYs9yKbTMOc4mA8kOcEeAiBOBtFZARK9SxnlK3_wJCTR_nfxHmmwpyzsk-gEceSDww%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", RT
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Times Now
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775446373/ei/BdXSaaSTKcm0ir4P9KK_4QI/ip/20.236.100.4/id/kLzWlCnO7YU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828959/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGIFbDB7lgQIyy7IkQJYD1Hl2tcPMnziYyYjL-55lU1NYhZPqOGEZ667fVR4cSXVKbxPrbYdNYqx/spc/jlWavcdHAb_IpD1lAU5xg_lD9CcR-gWe5trMppBoZyn0bHzystSyk9PJ-EZ26vByGBVPsw/vprv/1/go/1/ns/k_QaVP6UkrPbhiS1MdR8HbIU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/ZaUPNieaN8JmcAF4GY-V/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAOwAV8TzCBEBDtflkCSDfKy-yiXueJmFvuDRTx505oklAiAJ7x5YApIWVp3ImFaqysoiW9pJ_cBHa5eL0OEgelwQNg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Persian" tvg-logo="" tvg-id="", BBC Persian
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
