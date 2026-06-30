@@ -306,7 +306,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Philippines" tvg-logo="" tvg-id="", ABS-CBN Entertainment- Kapamilya Online Live
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782860831/ei/v_dDap7FB7Ca2_gPxraSSA/ip/52.154.132.165/id/jHt21naMM7Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEWDU_LOQLmE0lcGhV2uqhyXyoky6fB8KtkUVArNAYQNOn3-_8BUEX8jEL-weKt30tX_8GVi0i5J/spc/SQ-umikrSOcaOYaqItdSkr32OG3V0Ckq_Ic1vHNXskZMkWTt_PWeVtwQOYRstTsCbYqSTA/vprv/1/go/1/ns/nDmv5mq71Fce5C6_GpALjPIW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C52017146/dover/11/n/x5i5fyNHtBk4KRf8ps/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAII70aIb--8-vQ6PqSdNpMXsjd7jqtiF8txH0iUhXszwAiEA5ydJ2r__6ozoWAOkN6NejTM6FyM5LdY4YMVgyEQlyAY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbE1EchB3HTNxl2sAvcqAJVQQsKP0Q5O33ka5cVw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", CitizenTV Kenya
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
